@@ -22,3 +22,5 @@ scipy>=1.7.3
 # Used to ensure pydantic is supported
 # We only guarantee full support for pydantic >= 2.0.0
 pydantic>=2.0.0
+protobuf>=4.25.8 # not directly required, pinned by Snyk to avoid a vulnerability
+requests>=2.32.4 # not directly required, pinned by Snyk to avoid a vulnerability
