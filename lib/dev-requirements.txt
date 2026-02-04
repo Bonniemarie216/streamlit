@@ -22,3 +22,4 @@ types-setuptools
 types-toml
 types-typed-ast
 types-cachetools
+protobuf>=6.33.5 # not directly required, pinned by Snyk to avoid a vulnerability
