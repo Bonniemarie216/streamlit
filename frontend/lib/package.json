@@ -107,7 +107,7 @@
     "ua-parser-js": "^1.0.39",
     "unist-util-visit": "^4.1.2",
     "uuid": "^9.0.0",
-    "vega": "^5.30.0",
+    "vega": "^6.2.0",
     "vega-embed": "^6.26.0",
     "vega-interpreter": "^1.0.5",
     "vega-lite": "5.21.0",
